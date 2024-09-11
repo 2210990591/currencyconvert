@@ -1,0 +1,86 @@
+.start{
+    height:800px;
+    width:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+#muskan{
+    position:relative;
+    left:495px;
+    top:80px;
+    display:inline;
+    width:1800px;
+    background-color:rgb(156, 212, 239);
+}
+.amount{
+    height:90px;
+    width:170px;
+    
+    position:absolute;
+    left:4px;
+    top:7px;
+    display:inline;
+    background-color:white;
+}
+input{
+    border:2px solid lightgrey;
+    border-radius:6px;
+    height:30px;
+    width:889px;
+}
+.img{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    
+    
+}
+.from{
+    margin:10px;
+    
+    
+    
+}
+.select{
+    position:relative;
+    top:26px;
+    height:40px;
+    width:200px;
+    border:2px solid lightgrey;
+    border-radius:6px;
+}
+#rehni{
+    font-size:30px;
+    position:relative;
+    top:130px;
+}
+.to{
+   margin:10px;
+    
+}
+.together{
+    
+    display:flex;
+    gap:80px;
+}
+
+
+.whole{
+    position:relative;
+    top:30px;
+    height:500px;
+    width:900px;
+    background-color:rgb(191, 217, 238);
+    text-align:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+button{
+    position:absolute;
+    top:400px;
+    height:60px;
+    background-color:rgb(205, 126, 205);
+    cursor:pointer;
+}
